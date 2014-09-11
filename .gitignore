@@ -26,3 +26,20 @@
 *.exe
 *.out
 *.app
+
+# Mac temp files
+*.DS_Store
+
+# Project temp etc. files
+.metadata
+bin
+
+proj.android/local.properties
+proj.android/obj
+proj.android/gen/
+proj.android/assets/
+
+cocos2d/cocos/platform/android/java/gen/
+cocos2d/cocos/platform/android/java/local.properties
+
+proj.ios_mac/Space.xcodeproj/project.xcworkspace/xcuserdata
